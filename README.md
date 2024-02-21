@@ -1,6 +1,6 @@
 # Python_AI_ChatBot
 works in shell or on Discord
-installation of discord, regex, spacy is required for this to work
+installation of anaconda, discord, regex, spacy is required for this to work
 
 pip install discord
 pip install spacy
