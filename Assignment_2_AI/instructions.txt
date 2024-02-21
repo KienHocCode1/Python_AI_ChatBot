@@ -1,0 +1,18 @@
+link to server: https://discord.gg/p69GMYDHwz
+link to invite bot: https://discord.com/api/oauth2/authorize?client_id=1197573868592824350&permissions=274877908992&scope=bot
+invite code: qmqtvJ5b
+channel = "bot-channel"
+
+The bot can respond to questions from Phase 0, keywords from new questions using regex, and questions contain ORG, GPE, and NOUN
+
+Testing phases:
+appeal badminton
+appeal play
+appwwl play
+score badminton
+I don't know
+Where is Toronto
+I work for Costco
+"z" or "." (single character)
+Do you work for Apple?
+The concert is coming do you want to go? OR where is the concert near me?
